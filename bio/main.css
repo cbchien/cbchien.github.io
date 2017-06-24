@@ -1,0 +1,289 @@
+/* VARIABLES */
+/* MAIN */
+body {
+  position: relative;
+  font-family: Tahoma, sans-serif;
+}
+#header {
+  background: url("http://i.huffpost.com/gen/1180161/images/o-WORLD-OCEANS-DAY-2013-facebook.jpg");
+  background-size: 100% 120%;
+  background-repeat: no-repeat;
+  height: 480px;
+}
+#header a {
+  color: #FFFFFF;
+}
+#header .navbar {
+  background-color: rgba(0, 0, 0, 0.2);
+  height: 80px;
+  font-weight: bold;
+}
+#header .navbar-nav > li > a {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 14px;
+}
+#header .nav > li > a:focus,
+#header .nav > li > a:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#header .navbar-brand {
+  padding: 30px 0;
+  font-size: 20px;
+}
+#header .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+  height: 480px;
+}
+#header .action {
+  heigth: auto;
+  text-align: center;
+  background: none;
+}
+#header .action h1 {
+  line-heigth: 1.3;
+  font-size: 32px;
+  margin-top: 250px;
+  margin-bottom: 50px;
+  color: #ffffff;
+}
+#about .info-container {
+  background-color: #bdd4f9;
+  min-height: 400px;
+  color: #ffffff;
+}
+#about .info-container .info {
+  text-align: center;
+}
+#about .info-container .profile-pic {
+  margin: 55px auto 25px;
+  height: 180px;
+  width: 180px;
+  border-radius: 100%;
+  background-color: #bdd4f9;
+  -webkit-box-shadow: 5px 10px 18px -3px #777777;
+  -moz-box-shadow: 5px 10px 18px -3px #777777;
+  box-shadow: 5px 10px 18px -3px #777777;
+}
+#about .info-container .profile-info h4 {
+  font-size: 22px;
+}
+#about .info-container .skills {
+  min-height: 400px;
+}
+#about .info-container .skills p {
+  font-size: 18px;
+  margin: 65px 0 20px 30px;
+}
+#about .info-container .skills h4 {
+  margin: 10px 0 15px 30px;
+}
+#portfolio .portfolio-container {
+  background-color: #93a4bf;
+  min-height: 400px;
+  padding-top: 40px;
+}
+#portfolio .pages-line {
+  margin: 25px 0;
+}
+#portfolio .page-box {
+  background-color: #EEEEEE;
+  margin: 10px;
+  width: 280px;
+  height: 225px;
+  margin-right: 10px;
+  border-radius: 5px;
+  -webkit-box-shadow: 5px 10px 18px -3px #777777;
+  -moz-box-shadow: 5px 10px 18px -3px #777777;
+  box-shadow: 5px 10px 18px -3px #777777;
+}
+#portfolio .page-box .thumbnail {
+  height: 180px;
+  border: 5px solid #EEE;
+  margin-bottom: 0px;
+}
+#portfolio .page-box .thumbnail a > img {
+  height: 100%;
+  width: 100%;
+}
+#portfolio .page-box .info {
+  text-align: center;
+}
+#contact .contact-container {
+  height: 270px;
+  color: #ffffff;
+}
+#contact .about-info {
+  padding-top: 35px;
+}
+#contact .about-info h3 {
+  font-size: 18px;
+}
+#contact .social-info {
+  padding-top: 55px;
+}
+#contact h4 {
+  font-size: 16px;
+}
+#footer {
+  background-color: #505b6d;
+  height: 60px;
+}
+#footer .foot-nav {
+  padding-top: 10px;
+}
+#footer .foot-nav a {
+  color: #ffffff;
+  font-weight: bold;
+}
+#footer .foot-nav a:hover {
+  background-color: #9E9890;
+}
+#footer .footer-copy {
+  float: right;
+  padding: 10px 0;
+  color: #ffffff;
+}
+/* HELPERS */
+.title {
+  border-bottom: 1.5px solid #959285;
+}
+.title h3 {
+  margin: 25px 0px;
+  font-size: 22px;
+  font-family: Tahoma;
+  font-weight: bold;
+  color: #5F5F5F;
+}
+.button-start {
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 12px 25px;
+  font-family: verdana, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  boder-radius: 5px;
+}
+.button-start:hover {
+  background-color: rgba(0, 0, 0, 0.4);
+  text-decoration: none;
+}
+.social-btn {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: #ffffff;
+  font-size: 18px;
+  height: 40px;
+  width: 175px;
+  display: block;
+  margin: auto;
+  padding-top: 7px;
+  text-align: center;
+  -webkit-box-shadow: 5px 10px 18px -3px #777777;
+  -moz-box-shadow: 5px 10px 18px -3px #777777;
+  box-shadow: 5px 10px 18px -3px #777777;
+}
+.social-btn:hover {
+  opacity: 0.8;
+  text-decoration: none;
+}
+.twitter {
+  background-color: rgba(111, 159, 203, 0.5);
+}
+.linkedin {
+  background-color: rgba(1, 119, 181, 0.45);
+}
+.git {
+  background-color: #8b8578;
+}
+h5 {
+  margin-top: 1px;
+  margin-bottom: 2px;
+  text-align: center;
+  font-weight: bold;
+  color: #555;
+}
+i {
+  margin: 0px 3px;
+}
+.active {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+/* RESPONSIVE SETTINGS */
+@media only screen and (max-width: 990px) {
+  #header a {
+    font-size: 16px;
+  }
+  #header .navbar-brand {
+    font-size: 18px;
+  }
+  #header .navbar-nav > li > a {
+    font-size: 12px;
+  }
+  #about .info {
+    padding-bottom: 20px;
+  }
+  #about .skills {
+    padding-bottom: 20px;
+  }
+  #portfolio .page-box {
+    margin: auto;
+    margin-bottom: 30px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  #header a {
+    font-size: 15px;
+  }
+  #header .navbar-brand {
+    font-size: 17px;
+  }
+  #header .navbar-nav > li > a {
+    font-size: 12px;
+  }
+  #portfolio .page-box {
+    margin: auto;
+  }
+}
+/* GRADIENTS AND SHADOWS  */
+.info-container,
+.portfolio-container,
+.contact-container {
+  background: #7089b2;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #7089b2 0%, #7089b2 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #7089b2), color-stop(100%, #7089b2));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #7089b2 0%, #7089b2 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #7089b2 0%, #7089b2 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #7089b2 0%, #7089b2 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #7089b2 0%, #7089b2 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7089b2', endColorstr='#7089b2', GradientType=0);
+  /* IE6-9 */
+}
+.skills {
+  background: #a7a498;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #7d858e 0%, #7d858e 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #7d858e), color-stop(100%, #7d858e));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #7d858e 0%, #7d858e 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #7d858e 0%, #7d858e 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #7d858e 0%, #7d858e 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #7d858e 0%, #7d858e 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a7a498', endColorstr='#7d858e', GradientType=0);
+  /* IE6-9 */
+}
+.shadow {
+  -webkit-box-shadow: 5px 10px 18px -3px #777777;
+  -moz-box-shadow: 5px 10px 18px -3px #777777;
+  box-shadow: 5px 10px 18px -3px #777777;
+}
