@@ -271,6 +271,7 @@ h3.txt-tl {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    min-height: 200px;  
 }
 .section {
     position: relative;
@@ -363,6 +364,7 @@ h3.txt-tl {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    min-height: 200px;
 }
 
 .black
