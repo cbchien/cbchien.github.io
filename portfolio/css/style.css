@@ -1,0 +1,454 @@
+/*
+    Theme Name: Bethany
+    Theme URL: https://bootstrapmade.com/bethany-free-onepage-bootstrap-theme/
+    Author: BootstrapMade.com
+    Author URL: https://bootstrapmade.com
+*/
+
+body {
+	line-height: 1.5;
+	font-family: 'Open Sans', sans-serif;
+    overflow-x: hidden; 
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.section-padding
+{
+	padding: 60px 0px;
+}
+h1, h2, h3, h4, h5, h6
+{
+	font-family: 'Lato', sans-serif;
+}
+/**media Queries**/
+.navbar-default {
+    background-color: transparent;
+}
+.main-header
+{
+	background: url(../img/banner.jpg) no-repeat right bottom;
+	background-size: cover;
+	min-height: 680px;
+}
+
+.bg-color
+{
+	background-color: RGBA(0, 0, 0, 0.41);
+    min-height: 680px;
+}
+
+.nav > li > a {
+    padding: 0px;
+}
+.navbar-brand
+{
+	padding: 0px;
+	height: inherit;
+	font-family: 'Lato', sans-serif;
+    margin-bottom: 8px;
+}
+.navbar-default .navbar-brand {
+    color: #fff;
+	font-size: 20px;
+    line-height: 40px;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 1px;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #51cc9c;
+    background-color: transparent;
+    text-transform: uppercase;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+    padding: 0px 20px;
+    text-transform: uppercase;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus
+{
+	color: #51cc9c;
+}
+
+.navbar-fixed-top {
+    padding: 40px 0;
+    transition: all 0.5s;
+}
+
+.top-nav-collapse {
+    background: rgba(0,0,0,0.8);
+    padding: 25px 0;
+}
+
+
+.wrapper
+{
+	padding: 90px 0px 130px;
+}
+.top-title
+{
+	z-index: 5;
+	font-size: 24px;
+	font-weight: 300;
+	color: #fff;
+	line-height: 60px;
+	letter-spacing: 4px;
+	opacity: 1;
+    padding-top: 35px;
+}
+.sub-title
+{
+	font-size: 40px;
+	font-weight: 400;
+	color: #fff;
+	line-height: 40px;
+	letter-spacing: 4px;
+	opacity: 1;
+	/*text-transform: uppercase;*/
+}
+.title
+{
+	font-size: 75px;
+	font-weight: 300;
+	color: #fff;
+	line-height: 68px;
+	letter-spacing: 4px;
+	opacity: 1;
+	padding: 18px 0px;
+}
+.btn-submit
+{
+    background: #51cc9c;
+    border: 0px;
+    display: inline-block;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 10px 40px;
+    font-weight: normal;
+    border-radius: 0px;
+    letter-spacing: 1px;
+    color: #333;
+    position: relative;
+    overflow: hidden;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+    margin-top: 25px;
+    border: 2px solid  #51cc9c;
+}
+
+.btn-submit:hover {
+    background: #fff;
+}
+/****/
+#cta-1
+{
+	padding: 40px 0px;
+}
+.cta-info
+{
+	border: 5px solid #51cc9c;
+	padding: 40px 0px;
+}
+.cta-info h3
+{
+	font-size: 24px;
+}
+.dec-tec
+{
+	font-size: 34px;
+}
+/****/
+#feature
+{
+	background-color: #f8f8f8;
+}
+.head-title
+{
+	color: #2b2b2b;
+	font-size: 32px;
+	font-weight: 700;
+}
+.botm-line
+{
+	background-color: #2b2b2b;
+	width: 34px;
+	height: 3px;
+	display: inline-block;
+}
+.profile-pic {
+  margin: 55px auto 25px;
+  height: 180px;
+  width: 180px;
+  border-radius: 100%;
+  background: url("https://cbchien.github.io/bio/img/selfsqurare.jpg");
+  background-size: 100% 100%;
+  background-color: #bdd4f9;
+  -webkit-box-shadow: 5px 10px 18px -3px #777777;
+  -moz-box-shadow: 5px 10px 18px -3px #777777;
+  box-shadow: 5px 10px 18px -3px #777777;
+}
+.section-title:hover .botm-line
+{
+	width: 70px;
+	/* For Safari 3.1 to 6.0 */
+    -webkit-transition-property: width;
+    -webkit-transition-duration: 2s;
+    -webkit-transition-timing-function: linear;
+    -webkit-transition-delay: 1s;
+    /* Standard syntax */
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+    transition-delay: 1s;
+}
+p
+{
+	color: #888;
+}
+.icon {
+    position: relative;
+    height: 48px;
+    width: 48px;
+    float: left;
+    margin-top: 14px;
+    margin-bottom: 20px;
+}
+.icon i
+{
+	font-size: 35px;
+}
+.icon-text {
+    margin-left: 73px;
+    padding:0px 25px 25px 0px;
+}
+h3.txt-tl {
+    font-size: 24px;
+    line-height: 1.35;
+}
+/****/
+.parallax {
+    background-attachment: fixed;
+    background-repeat: repeat-y;
+    background-position: center center;
+}
+.bg-image-2 {
+    background: url('../img/cta-banner.jpg') no-repeat center fixed;
+    -webkit-background-size: 100% auto;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+    background-size: 100% auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.section {
+    position: relative;
+    padding: 88px 0 67px 0;
+    display: block;
+}
+.cta-txt h3 {
+    
+    font-size: 32px;
+    margin-bottom: 10px;
+    font-weight: 700;
+    color: #fff;
+}
+.cta-txt p
+{
+	color: #fff;
+}
+/****/
+.portfolio-box-outter
+{
+    border: 1px solid #dceae6;
+    margin: 2px 4px 4px 0px;
+    padding: 5px;
+    border-radius: 7px;
+}
+.portfolio-box
+{
+    display: flex;
+    padding: 2px;
+    overflow: hidden;
+}
+@media screen and (min-width: 768px) {
+    .portfolio-box {
+        height: 220px;
+    }
+    .portfolio-box-outter
+    {
+        width: 47%;
+    }
+}
+@media screen and (min-width: 992px) {
+    .portfolio-box {
+        height: 130px;
+    }
+    .portfolio-box-outter
+    {
+        width: 30%;
+    }
+}
+
+.portfolio-box-container
+{
+  overflow: hidden;
+  height: 30em;
+}
+
+.readmore, .readless 
+{
+    /*margin-left: 15px;*/
+    display: block;
+    width: 150px;
+    text-align: center;
+    margin: 15px auto;
+}
+
+.readless 
+{
+    display: none;
+}
+
+.info
+{
+    text-align: center;
+    margin-bottom: 8px;
+    overflow: hidden; 
+}
+
+#contact
+{
+	margin: 0px;
+}
+
+.bg-image-3 {
+    background: url('../img/cta-banner2.JPG') no-repeat top left fixed;
+    -webkit-background-size: 100% auto;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+    background-size: 100% auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.black
+{
+	color: #000 !important;
+	font-weight: 600;
+}
+
+a, a:hover
+{
+	color: #51cc9c;
+}
+.cont-title
+{
+	font-size: 24px;
+	padding:15px 0px;
+}
+
+.social-info {
+    background-color: rgba(237, 242, 241, 0.6);
+    box-shadow: 0px 0px 55px rgba(237, 242, 241, 1);
+    border-radius: 4px;
+    margin: 5px;
+    padding-bottom: 5px; 
+}
+
+.social-info p {
+    font-size: 18px;
+    line-height: 32px;
+    color: #000;
+    margin-bottom: 5px;
+}
+/****/
+#footer
+{
+	background-color: #191919;
+	padding: 20px 0px;
+}
+.footer-copyright {
+    color: #fff;
+    line-height: 14px;
+    font-size: 12px; 
+    text-align: left;
+}
+.social-icon {
+    font-size: 24px;
+    color: #434746;
+}
+.link-dec, .link-dec:hover{
+    color: #000;
+}
+/****/
+@media (min-width: 451px) and (max-width: 900px){
+    .section-title{
+        margin-bottom: 15px;
+    }
+}
+@media (min-width: 20px) and (max-width: 450px){
+    .navbar-toggle:hover, .navbar-toggle{
+        background-color: #fff;
+        color: #000;
+    }
+    .navbar-toggle{
+        margin-top: 0px;
+    }
+    .navbar-default .navbar-nav > li > a{
+        text-align: center;
+        background-color: rgba(255, 255, 255, 0.32);
+        color: #000;
+    }
+    .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
+        background-color: rgba(255, 255, 255, 0.32);
+        color: #51cc9c;
+    }
+    .top-title{
+        font-size: 15px;
+    }
+    .title{
+        font-size: 50px;
+    }
+    .sub-title{
+        font-size: 24px;
+    }
+    .footer-copyright {
+    text-align: center;
+    }
+    .padding-right-zero{
+        padding-right: 15px;
+    }
+    .section-title{
+        margin-bottom: 15px;
+    }
+    .cta-txt h3{
+        font-size: 28px;
+    }
+    body{
+        font-size: 14px;
+    }
+    h3.txt-tl{
+        font-size: 20px;
+    }
+}
+/****/
