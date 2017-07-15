@@ -33,6 +33,10 @@ h1, h2, h3, h4, h5, h6
 {
 	font-family: 'Lato', sans-serif;
 }
+.title
+{
+    font-family: 'Ubuntu', sans-serif;
+}
 /**media Queries**/
 .navbar-default {
     background-color: transparent;
@@ -78,9 +82,9 @@ h1, h2, h3, h4, h5, h6
 	font-size: 16px;
     line-height: 22px;
 	text-transform: uppercase;
-	font-weight: 600;
+	font-weight: 500;
 	letter-spacing: 1px;
-    margin: 0px 0px -30px 0px;
+    margin: 0px 0px -20px 0px;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
     color: #51cc9c;
@@ -89,7 +93,7 @@ h1, h2, h3, h4, h5, h6
 }
 .navbar-default .navbar-nav > li > a {
     color: #fff;
-    padding: 0px 0px;
+    padding: 0px 9px;
     text-transform: uppercase;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus
@@ -303,24 +307,7 @@ h3.txt-tl {
     padding: 2px;
     overflow: hidden;
 }
-@media screen and (min-width: 768px) {
-    .portfolio-box {
-        height: 220px;
-    }
-    .portfolio-box-outter
-    {
-        width: 47%;
-    }
-}
-@media screen and (min-width: 992px) {
-    .portfolio-box {
-        height: 130px;
-    }
-    .portfolio-box-outter
-    {
-        width: 30%;
-    }
-}
+
 
 .portfolio-box-container
 {
@@ -417,7 +404,7 @@ a, a:hover
     color: #000;
 }
 /****/
-@media (min-width: 451px) and (max-width: 900px){
+@media (min-width: 451px) and (max-width: 992px){
     .section-title{
         margin-bottom: 15px;
     }
@@ -465,6 +452,35 @@ a, a:hover
     }
     h3.txt-tl{
         font-size: 20px;
+    }
+    .bg-image-3 {
+        background: url('../img/cta-banner3.jpg') no-repeat bottom fixed;
+        -webkit-background-size: 90% auto;
+        -moz-background-size: 90% auto;
+        -o-background-size: 90% auto;
+        background-size: 90% auto;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .portfolio-box {
+        height: 220px;
+    }
+    .portfolio-box-outter
+    {
+        width: 47%;
+    }
+    .navbar-brand {
+        width: auto;
+    }
+}
+@media screen and (min-width: 992px) {
+    .portfolio-box {
+        height: 130px;
+    }
+    .portfolio-box-outter
+    {
+        width: 30%;
     }
 }
 /****/
