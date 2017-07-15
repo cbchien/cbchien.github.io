@@ -342,7 +342,7 @@ h3.txt-tl {
 }
 
 .bg-image-3 {
-    background: url('../img/cta-banner3.jpg') no-repeat fixed;
+    background: url('../img/cta-banner3.jpg') no-repeat top left fixed;
     -webkit-background-size: 100% auto;
     -moz-background-size: 100% auto;
     -o-background-size: 100% auto;
