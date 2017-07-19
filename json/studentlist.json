@@ -1,0 +1,1732 @@
+[
+ {
+   "Class": 201,
+   "No": 1,
+   "Name": "S20101",
+   "Sex": "Male",
+   "Mandarin": 96.6,
+   "Math": 94.6,
+   "Average": 95.6,
+   "Mark": "g"
+ },
+ {
+   "Class": 201,
+   "No": 2,
+   "Name": "S20102",
+   "Sex": "Male",
+   "Mandarin": 93.2,
+   "Math": 94.2,
+   "Average": 93.7,
+   "Mark": "g"
+ },
+ {
+   "Class": 201,
+   "No": 4,
+   "Name": "S20104",
+   "Sex": "Male",
+   "Mandarin": 79.4,
+   "Math": 85.2,
+   "Average": 82.3,
+   "Mark": "chd"
+ },
+ {
+   "Class": 201,
+   "No": 5,
+   "Name": "S20105",
+   "Sex": "Male",
+   "Mandarin": 91.4,
+   "Math": 95,
+   "Average": 93.2,
+   "Mark": "h"
+ },
+ {
+   "Class": 201,
+   "No": 6,
+   "Name": "S20106",
+   "Sex": "Male",
+   "Mandarin": 87.8,
+   "Math": 93.8,
+   "Average": 90.8,
+   "Mark": "h"
+ },
+ {
+   "Class": 201,
+   "No": 7,
+   "Name": "S20107",
+   "Sex": "Male",
+   "Mandarin": 85.6,
+   "Math": 81,
+   "Average": 83.3,
+   "Mark": "f"
+ },
+ {
+   "Class": 201,
+   "No": 8,
+   "Name": "S20108",
+   "Sex": "Male",
+   "Mandarin": 94.8,
+   "Math": 94.6,
+   "Average": 94.7,
+   "Mark": ""
+ },
+ {
+   "Class": 201,
+   "No": 9,
+   "Name": "S20109",
+   "Sex": "Male",
+   "Mandarin": 98.6,
+   "Math": 97.2,
+   "Average": 97.9,
+   "Mark": "g"
+ },
+ {
+   "Class": 201,
+   "No": 10,
+   "Name": "S20110",
+   "Sex": "Male",
+   "Mandarin": 97.2,
+   "Math": 85,
+   "Average": 91.1,
+   "Mark": "h"
+ },
+ {
+   "Class": 201,
+   "No": 11,
+   "Name": "S20111",
+   "Sex": "Male",
+   "Mandarin": 97.4,
+   "Math": 96.2,
+   "Average": 96.8,
+   "Mark": "f"
+ },
+ {
+   "Class": 201,
+   "No": 12,
+   "Name": "S20112",
+   "Sex": "Male",
+   "Mandarin": 99,
+   "Math": 96.8,
+   "Average": 97.9,
+   "Mark": "g"
+ },
+ {
+   "Class": 201,
+   "No": 13,
+   "Name": "S20113",
+   "Sex": "Male",
+   "Mandarin": 88.8,
+   "Math": 90.2,
+   "Average": 89.5,
+   "Mark": "ch"
+ },
+ {
+   "Class": 201,
+   "No": 14,
+   "Name": "S20114",
+   "Sex": "Female",
+   "Mandarin": 97.8,
+   "Math": 98.4,
+   "Average": 98.1,
+   "Mark": ""
+ },
+ {
+   "Class": 201,
+   "No": 15,
+   "Name": "S20115",
+   "Sex": "Female",
+   "Mandarin": 98.2,
+   "Math": 99.2,
+   "Average": 98.7,
+   "Mark": ""
+ },
+ {
+   "Class": 201,
+   "No": 16,
+   "Name": "S20116",
+   "Sex": "Female",
+   "Mandarin": 98.4,
+   "Math": 94.6,
+   "Average": 96.5,
+   "Mark": ""
+ },
+ {
+   "Class": 201,
+   "No": 17,
+   "Name": "S20117",
+   "Sex": "Female",
+   "Mandarin": 96,
+   "Math": 90,
+   "Average": 93,
+   "Mark": ""
+ },
+ {
+   "Class": 201,
+   "No": 18,
+   "Name": "S20118",
+   "Sex": "Female",
+   "Mandarin": 96,
+   "Math": 96.4,
+   "Average": 96.2,
+   "Mark": ""
+ },
+ {
+   "Class": 201,
+   "No": 19,
+   "Name": "S20119",
+   "Sex": "Female",
+   "Mandarin": 96.6,
+   "Math": 94.4,
+   "Average": 95.5,
+   "Mark": ""
+ },
+ {
+   "Class": 201,
+   "No": 20,
+   "Name": "S20120",
+   "Sex": "Female",
+   "Mandarin": 96,
+   "Math": 92.8,
+   "Average": 94.4,
+   "Mark": ""
+ },
+ {
+   "Class": 201,
+   "No": 21,
+   "Name": "S20121",
+   "Sex": "Female",
+   "Mandarin": 98.6,
+   "Math": 98.8,
+   "Average": 98.7,
+   "Mark": "f"
+ },
+ {
+   "Class": 201,
+   "No": 22,
+   "Name": "S20122",
+   "Sex": "Female",
+   "Mandarin": 82.2,
+   "Math": 73.4,
+   "Average": 77.8,
+   "Mark": "d"
+ },
+ {
+   "Class": 201,
+   "No": 23,
+   "Name": "S20123",
+   "Sex": "Female",
+   "Mandarin": 93,
+   "Math": 77.2,
+   "Average": 85.1,
+   "Mark": "d"
+ },
+ {
+   "Class": 201,
+   "No": 24,
+   "Name": "S20124",
+   "Sex": "Male",
+   "Mandarin": 82.8,
+   "Math": 76.6,
+   "Average": 79.7,
+   "Mark": "d"
+ },
+ {
+   "Class": 201,
+   "No": 25,
+   "Name": "S20125",
+   "Sex": "Male",
+   "Mandarin": 75.8,
+   "Math": 72.2,
+   "Average": 74,
+   "Mark": "bch"
+ },
+ {
+   "Class": 202,
+   "No": 1,
+   "Name": "S20201",
+   "Sex": "Male",
+   "Mandarin": 96.8,
+   "Math": 93.8,
+   "Average": 95.3,
+   "Mark": "f"
+ },
+ {
+   "Class": 202,
+   "No": 2,
+   "Name": "S20202",
+   "Sex": "Male",
+   "Mandarin": 97.8,
+   "Math": 97,
+   "Average": 97.4,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 3,
+   "Name": "S20203",
+   "Sex": "Male",
+   "Mandarin": 97.4,
+   "Math": 89.8,
+   "Average": 93.6,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 4,
+   "Name": "S20204",
+   "Sex": "Male",
+   "Mandarin": 98.2,
+   "Math": 98.2,
+   "Average": 98.2,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 5,
+   "Name": "S20205",
+   "Sex": "Male",
+   "Mandarin": 90,
+   "Math": 91.2,
+   "Average": 90.6,
+   "Mark": "b"
+ },
+ {
+   "Class": 202,
+   "No": 6,
+   "Name": "S20206",
+   "Sex": "Male",
+   "Mandarin": 96.4,
+   "Math": 94.8,
+   "Average": 95.6,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 7,
+   "Name": "S20207",
+   "Sex": "Male",
+   "Mandarin": 98.2,
+   "Math": 96.2,
+   "Average": 97.2,
+   "Mark": "h"
+ },
+ {
+   "Class": 202,
+   "No": 8,
+   "Name": "S20208",
+   "Sex": "Male",
+   "Mandarin": 96.2,
+   "Math": 88.6,
+   "Average": 92.4,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 9,
+   "Name": "S20209",
+   "Sex": "Male",
+   "Mandarin": 86.2,
+   "Math": 82.6,
+   "Average": 84.4,
+   "Mark": "bh"
+ },
+ {
+   "Class": 202,
+   "No": 10,
+   "Name": "S20210",
+   "Sex": "Male",
+   "Mandarin": 93,
+   "Math": 90.4,
+   "Average": 91.7,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 11,
+   "Name": "S20211",
+   "Sex": "Male",
+   "Mandarin": 98,
+   "Math": 88.2,
+   "Average": 93.1,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 12,
+   "Name": "S20212",
+   "Sex": "Male",
+   "Mandarin": 94.8,
+   "Math": 92.8,
+   "Average": 93.8,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 13,
+   "Name": "S20213",
+   "Sex": "Male",
+   "Mandarin": 70.6,
+   "Math": 69,
+   "Average": 69.8,
+   "Mark": "ch"
+ },
+ {
+   "Class": 202,
+   "No": 14,
+   "Name": "S20214",
+   "Sex": "Male",
+   "Mandarin": 92.4,
+   "Math": 86.4,
+   "Average": 89.4,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 15,
+   "Name": "S20215",
+   "Sex": "Female",
+   "Mandarin": 92.4,
+   "Math": 93.6,
+   "Average": 93,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 16,
+   "Name": "S20216",
+   "Sex": "Female",
+   "Mandarin": 96.6,
+   "Math": 95.8,
+   "Average": 96.2,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 17,
+   "Name": "S20217",
+   "Sex": "Female",
+   "Mandarin": 97.8,
+   "Math": 96.4,
+   "Average": 97.1,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 18,
+   "Name": "S20218",
+   "Sex": "Female",
+   "Mandarin": 65.8,
+   "Math": 68.4,
+   "Average": 67.1,
+   "Mark": "d"
+ },
+ {
+   "Class": 202,
+   "No": 19,
+   "Name": "S20219",
+   "Sex": "Female",
+   "Mandarin": 94.4,
+   "Math": 92.6,
+   "Average": 93.5,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 20,
+   "Name": "S20220",
+   "Sex": "Female",
+   "Mandarin": 93.2,
+   "Math": 83.8,
+   "Average": 88.5,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 21,
+   "Name": "S20221",
+   "Sex": "Female",
+   "Mandarin": 97.4,
+   "Math": 93.6,
+   "Average": 95.5,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 22,
+   "Name": "S20222",
+   "Sex": "Female",
+   "Mandarin": 78.2,
+   "Math": 66.4,
+   "Average": 72.3,
+   "Mark": "c"
+ },
+ {
+   "Class": 202,
+   "No": 23,
+   "Name": "S20223",
+   "Sex": "Female",
+   "Mandarin": 97.4,
+   "Math": 94.6,
+   "Average": 96,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 24,
+   "Name": "S20224",
+   "Sex": "Female",
+   "Mandarin": 95.4,
+   "Math": 93,
+   "Average": 94.2,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 25,
+   "Name": "S20225",
+   "Sex": "Female",
+   "Mandarin": 97.2,
+   "Math": 94.2,
+   "Average": 95.7,
+   "Mark": ""
+ },
+ {
+   "Class": 202,
+   "No": 26,
+   "Name": "S20226",
+   "Sex": "Female",
+   "Mandarin": 89,
+   "Math": 89.5,
+   "Average": 89.25,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 1,
+   "Name": "S20301",
+   "Sex": "Male",
+   "Mandarin": 64.8,
+   "Math": 57.4,
+   "Average": 61.1,
+   "Mark": "h"
+ },
+ {
+   "Class": 203,
+   "No": 2,
+   "Name": "S20302",
+   "Sex": "Male",
+   "Mandarin": 95.8,
+   "Math": 95.4,
+   "Average": 95.6,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 3,
+   "Name": "S20303",
+   "Sex": "Male",
+   "Mandarin": 81.2,
+   "Math": 87.4,
+   "Average": 84.3,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 4,
+   "Name": "S20304",
+   "Sex": "Male",
+   "Mandarin": 95.8,
+   "Math": 94.4,
+   "Average": 95.1,
+   "Mark": "b;e"
+ },
+ {
+   "Class": 203,
+   "No": 5,
+   "Name": "S20305",
+   "Sex": "Male",
+   "Mandarin": 88.2,
+   "Math": 75.6,
+   "Average": 81.9,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 6,
+   "Name": "S20306",
+   "Sex": "Male",
+   "Mandarin": 93.2,
+   "Math": 95,
+   "Average": 94.1,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 7,
+   "Name": "S20307",
+   "Sex": "Male",
+   "Mandarin": 87.8,
+   "Math": 73.4,
+   "Average": 80.6,
+   "Mark": "h"
+ },
+ {
+   "Class": 203,
+   "No": 8,
+   "Name": "S20308",
+   "Sex": "Male",
+   "Mandarin": 87,
+   "Math": 72.2,
+   "Average": 79.6,
+   "Mark": "b+"
+ },
+ {
+   "Class": 203,
+   "No": 9,
+   "Name": "S20309",
+   "Sex": "Male",
+   "Mandarin": 92.2,
+   "Math": 85,
+   "Average": 88.6,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 10,
+   "Name": "S20310",
+   "Sex": "Male",
+   "Mandarin": 96.6,
+   "Math": 96.6,
+   "Average": 96.6,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 11,
+   "Name": "S20311",
+   "Sex": "Male",
+   "Mandarin": 94,
+   "Math": 86.6,
+   "Average": 90.3,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 12,
+   "Name": "S20312",
+   "Sex": "Male",
+   "Mandarin": 95,
+   "Math": 93.8,
+   "Average": 94.4,
+   "Mark": "h;e"
+ },
+ {
+   "Class": 203,
+   "No": 13,
+   "Name": "S20313",
+   "Sex": "Male",
+   "Mandarin": 88.8,
+   "Math": 90.4,
+   "Average": 89.6,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 14,
+   "Name": "S20314",
+   "Sex": "Male",
+   "Mandarin": 93.6,
+   "Math": 84.4,
+   "Average": 89,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 15,
+   "Name": "S20315",
+   "Sex": "Female",
+   "Mandarin": 94.8,
+   "Math": 87.2,
+   "Average": 91,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 16,
+   "Name": "S20316",
+   "Sex": "Female",
+   "Mandarin": 93.6,
+   "Math": 83.6,
+   "Average": 88.6,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 17,
+   "Name": "S20317",
+   "Sex": "Female",
+   "Mandarin": 99,
+   "Math": 94.8,
+   "Average": 96.9,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 18,
+   "Name": "S20318",
+   "Sex": "Female",
+   "Mandarin": 95.4,
+   "Math": 86.8,
+   "Average": 91.1,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 19,
+   "Name": "S20319",
+   "Sex": "Female",
+   "Mandarin": 95.4,
+   "Math": 94.2,
+   "Average": 94.8,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 20,
+   "Name": "S20320",
+   "Sex": "Female",
+   "Mandarin": 93.4,
+   "Math": 90.2,
+   "Average": 91.8,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 21,
+   "Name": "S20321",
+   "Sex": "Female",
+   "Mandarin": 95,
+   "Math": 87.8,
+   "Average": 91.4,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 22,
+   "Name": "S20322",
+   "Sex": "Female",
+   "Mandarin": 91,
+   "Math": 89.2,
+   "Average": 90.1,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 23,
+   "Name": "S20323",
+   "Sex": "Female",
+   "Mandarin": 92.8,
+   "Math": 81.2,
+   "Average": 87,
+   "Mark": ""
+ },
+ {
+   "Class": 203,
+   "No": 24,
+   "Name": "S20324",
+   "Sex": "Female",
+   "Mandarin": 96.6,
+   "Math": 85.4,
+   "Average": 91,
+   "Mark": ""
+ },
+ {
+   "Class": 204,
+   "No": 1,
+   "Name": "S20401",
+   "Sex": "Male",
+   "Mandarin": 95,
+   "Math": 93.2,
+   "Average": 94.1,
+   "Mark": ""
+ },
+ {
+   "Class": 204,
+   "No": 2,
+   "Name": "S20402",
+   "Sex": "Male",
+   "Mandarin": 88,
+   "Math": 89.6,
+   "Average": 88.8,
+   "Mark": ""
+ },
+ {
+   "Class": 204,
+   "No": 3,
+   "Name": "S20403",
+   "Sex": "Male",
+   "Mandarin": 82.6,
+   "Math": 77.8,
+   "Average": 80.2,
+   "Mark": "b+"
+ },
+ {
+   "Class": 204,
+   "No": 4,
+   "Name": "S20404",
+   "Sex": "Male",
+   "Mandarin": 92.2,
+   "Math": 93.8,
+   "Average": 93,
+   "Mark": ""
+ },
+ {
+   "Class": 204,
+   "No": 5,
+   "Name": "S20405",
+   "Sex": "Male",
+   "Mandarin": 95.2,
+   "Math": 96,
+   "Average": 95.6,
+   "Mark": "b"
+ },
+ {
+   "Class": 204,
+   "No": 6,
+   "Name": "S20406",
+   "Sex": "Male",
+   "Mandarin": 98.4,
+   "Math": 94.6,
+   "Average": 96.5,
+   "Mark": ""
+ },
+ {
+   "Class": 204,
+   "No": 7,
+   "Name": "S20407",
+   "Sex": "Male",
+   "Mandarin": 94,
+   "Math": 99.4,
+   "Average": 96.7,
+   "Mark": "b+"
+ },
+ {
+   "Class": 204,
+   "No": 8,
+   "Name": "S20408",
+   "Sex": "Male",
+   "Mandarin": 94.8,
+   "Math": 90.4,
+   "Average": 92.6,
+   "Mark": ""
+ },
+ {
+   "Class": 204,
+   "No": 9,
+   "Name": "S20409",
+   "Sex": "Male",
+   "Mandarin": 91.2,
+   "Math": 82.2,
+   "Average": 86.7,
+   "Mark": "h"
+ },
+ {
+   "Class": 204,
+   "No": 10,
+   "Name": "S20410",
+   "Sex": "Male",
+   "Mandarin": 95.4,
+   "Math": 88.6,
+   "Average": 92,
+   "Mark": ""
+ },
+ {
+   "Class": 204,
+   "No": 11,
+   "Name": "S20411",
+   "Sex": "Male",
+   "Mandarin": 94.4,
+   "Math": 90,
+   "Average": 92.2,
+   "Mark": "b"
+ },
+ {
+   "Class": 204,
+   "No": 12,
+   "Name": "S20412",
+   "Sex": "Male",
+   "Mandarin": 96.8,
+   "Math": 94,
+   "Average": 95.4,
+   "Mark": ""
+ },
+ {
+   "Class": 204,
+   "No": 13,
+   "Name": "S20413",
+   "Sex": "Male",
+   "Mandarin": 95,
+   "Math": 86.6,
+   "Average": 90.8,
+   "Mark": "b+;g"
+ },
+ {
+   "Class": 204,
+   "No": 14,
+   "Name": "S20414",
+   "Sex": "Male",
+   "Mandarin": 93,
+   "Math": 93.8,
+   "Average": 93.4,
+   "Mark": "b-"
+ },
+ {
+   "Class": 204,
+   "No": 15,
+   "Name": "S20415",
+   "Sex": "Female",
+   "Mandarin": 95.6,
+   "Math": 91.6,
+   "Average": 93.6,
+   "Mark": ""
+ },
+ {
+   "Class": 204,
+   "No": 16,
+   "Name": "S20416",
+   "Sex": "Female",
+   "Mandarin": 95,
+   "Math": 97.8,
+   "Average": 96.4,
+   "Mark": ""
+ },
+ {
+   "Class": 204,
+   "No": 17,
+   "Name": "S20417",
+   "Sex": "Female",
+   "Mandarin": 95.4,
+   "Math": 89.8,
+   "Average": 92.6,
+   "Mark": "g"
+ },
+ {
+   "Class": 204,
+   "No": 18,
+   "Name": "S20418",
+   "Sex": "Female",
+   "Mandarin": 89.4,
+   "Math": 72.8,
+   "Average": 81.1,
+   "Mark": ""
+ },
+ {
+   "Class": 204,
+   "No": 19,
+   "Name": "S20419",
+   "Sex": "Female",
+   "Mandarin": 86.6,
+   "Math": 74.6,
+   "Average": 80.6,
+   "Mark": ""
+ },
+ {
+   "Class": 204,
+   "No": 20,
+   "Name": "S20420",
+   "Sex": "Female",
+   "Mandarin": 95.2,
+   "Math": 80.2,
+   "Average": 87.7,
+   "Mark": ""
+ },
+ {
+   "Class": 204,
+   "No": 21,
+   "Name": "S20421",
+   "Sex": "Female",
+   "Mandarin": 96.8,
+   "Math": 95.2,
+   "Average": 96,
+   "Mark": ""
+ },
+ {
+   "Class": 204,
+   "No": 23,
+   "Name": "S20423",
+   "Sex": "Female",
+   "Mandarin": 76.2,
+   "Math": 72,
+   "Average": 74.1,
+   "Mark": "h"
+ },
+ {
+   "Class": 204,
+   "No": 24,
+   "Name": "S20424",
+   "Sex": "Female",
+   "Mandarin": 94.6,
+   "Math": 86.6,
+   "Average": 90.6,
+   "Mark": "h"
+ },
+ {
+   "Class": 204,
+   "No": 25,
+   "Name": "S20425",
+   "Sex": "Female",
+   "Mandarin": 82.4,
+   "Math": 81.8,
+   "Average": 82.1,
+   "Mark": "c"
+ },
+ {
+   "Class": 205,
+   "No": 1,
+   "Name": "S20501",
+   "Sex": "Male",
+   "Mandarin": 95.4,
+   "Math": 95.6,
+   "Average": 95.5,
+   "Mark": ""
+ },
+ {
+   "Class": 205,
+   "No": 2,
+   "Name": "S20502",
+   "Sex": "Male",
+   "Mandarin": 97,
+   "Math": 94.8,
+   "Average": 95.9,
+   "Mark": ""
+ },
+ {
+   "Class": 205,
+   "No": 3,
+   "Name": "S20503",
+   "Sex": "Male",
+   "Mandarin": 89.2,
+   "Math": 89,
+   "Average": 89.1,
+   "Mark": ""
+ },
+ {
+   "Class": 205,
+   "No": 4,
+   "Name": "S20504",
+   "Sex": "Male",
+   "Mandarin": 98.2,
+   "Math": 97.6,
+   "Average": 97.9,
+   "Mark": "b"
+ },
+ {
+   "Class": 205,
+   "No": 5,
+   "Name": "S20505",
+   "Sex": "Male",
+   "Mandarin": 96,
+   "Math": 92.8,
+   "Average": 94.4,
+   "Mark": ""
+ },
+ {
+   "Class": 205,
+   "No": 6,
+   "Name": "S20506",
+   "Sex": "Male",
+   "Mandarin": 96.6,
+   "Math": 93.2,
+   "Average": 94.9,
+   "Mark": ""
+ },
+ {
+   "Class": 205,
+   "No": 7,
+   "Name": "S20507",
+   "Sex": "Male",
+   "Mandarin": 97.4,
+   "Math": 97.4,
+   "Average": 97.4,
+   "Mark": ""
+ },
+ {
+   "Class": 205,
+   "No": 8,
+   "Name": "S20508",
+   "Sex": "Male",
+   "Mandarin": 98.6,
+   "Math": 96.4,
+   "Average": 97.5,
+   "Mark": ""
+ },
+ {
+   "Class": 205,
+   "No": 9,
+   "Name": "S20509",
+   "Sex": "Male",
+   "Mandarin": 98.4,
+   "Math": 96,
+   "Average": 97.2,
+   "Mark": "h"
+ },
+ {
+   "Class": 205,
+   "No": 10,
+   "Name": "S20510",
+   "Sex": "Male",
+   "Mandarin": 95.6,
+   "Math": 96.8,
+   "Average": 96.2,
+   "Mark": ""
+ },
+ {
+   "Class": 205,
+   "No": 11,
+   "Name": "S20511",
+   "Sex": "Male",
+   "Mandarin": 96.8,
+   "Math": 94.4,
+   "Average": 95.6,
+   "Mark": ""
+ },
+ {
+   "Class": 205,
+   "No": 12,
+   "Name": "S20512",
+   "Sex": "Male",
+   "Mandarin": 90.6,
+   "Math": 91.2,
+   "Average": 90.9,
+   "Mark": "b"
+ },
+ {
+   "Class": 205,
+   "No": 13,
+   "Name": "S20513",
+   "Sex": "Male",
+   "Mandarin": 85,
+   "Math": 59.4,
+   "Average": 72.2,
+   "Mark": "bc"
+ },
+ {
+   "Class": 205,
+   "No": 14,
+   "Name": "S20514",
+   "Sex": "Male",
+   "Mandarin": 85.2,
+   "Math": 72,
+   "Average": 78.6,
+   "Mark": "bghd"
+ },
+ {
+   "Class": 205,
+   "No": 15,
+   "Name": "S20515",
+   "Sex": "Female",
+   "Mandarin": 97.2,
+   "Math": 95.8,
+   "Average": 96.5,
+   "Mark": ""
+ },
+ {
+   "Class": 205,
+   "No": 16,
+   "Name": "S20516",
+   "Sex": "Female",
+   "Mandarin": 95.2,
+   "Math": 92.8,
+   "Average": 94,
+   "Mark": ""
+ },
+ {
+   "Class": 205,
+   "No": 17,
+   "Name": "S20517",
+   "Sex": "Female",
+   "Mandarin": 91.6,
+   "Math": 75.6,
+   "Average": 83.6,
+   "Mark": "b+"
+ },
+ {
+   "Class": 205,
+   "No": 18,
+   "Name": "S20518",
+   "Sex": "Female",
+   "Mandarin": 94,
+   "Math": 94,
+   "Average": 94,
+   "Mark": ""
+ },
+ {
+   "Class": 205,
+   "No": 19,
+   "Name": "S20519",
+   "Sex": "Female",
+   "Mandarin": null,
+   "Math": null,
+   "Average": null,
+   "Mark": "transfer out"
+ },
+ {
+   "Class": 205,
+   "No": 20,
+   "Name": "S20520",
+   "Sex": "Female",
+   "Mandarin": 98.6,
+   "Math": 99.2,
+   "Average": 98.9,
+   "Mark": ""
+ },
+ {
+   "Class": 205,
+   "No": 21,
+   "Name": "S20521",
+   "Sex": "Female",
+   "Mandarin": 96.8,
+   "Math": 95.2,
+   "Average": 96,
+   "Mark": ""
+ },
+ {
+   "Class": 205,
+   "No": 22,
+   "Name": "S20522",
+   "Sex": "Female",
+   "Mandarin": 92.4,
+   "Math": 93.4,
+   "Average": 92.9,
+   "Mark": ""
+ },
+ {
+   "Class": 205,
+   "No": 23,
+   "Name": "S20523",
+   "Sex": "Female",
+   "Mandarin": 97.8,
+   "Math": 91.6,
+   "Average": 94.7,
+   "Mark": ""
+ },
+ {
+   "Class": 205,
+   "No": 24,
+   "Name": "S20524",
+   "Sex": "Female",
+   "Mandarin": 97.8,
+   "Math": 92.8,
+   "Average": 95.3,
+   "Mark": ""
+ },
+ {
+   "Class": 205,
+   "No": 25,
+   "Name": "S20525",
+   "Sex": "Female",
+   "Mandarin": 93.6,
+   "Math": 89.2,
+   "Average": 91.4,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 2,
+   "Name": "S20602",
+   "Sex": "Male",
+   "Mandarin": 90,
+   "Math": 87.4,
+   "Average": 88.7,
+   "Mark": "b+;e"
+ },
+ {
+   "Class": 206,
+   "No": 3,
+   "Name": "S20603",
+   "Sex": "Male",
+   "Mandarin": 96.4,
+   "Math": 93.2,
+   "Average": 94.8,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 4,
+   "Name": "S20604",
+   "Sex": "Male",
+   "Mandarin": 91.8,
+   "Math": 93.2,
+   "Average": 92.5,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 5,
+   "Name": "S20605",
+   "Sex": "Male",
+   "Mandarin": 95,
+   "Math": 88.8,
+   "Average": 91.9,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 6,
+   "Name": "S20606",
+   "Sex": "Male",
+   "Mandarin": 86.2,
+   "Math": 84.6,
+   "Average": 85.4,
+   "Mark": "c;e"
+ },
+ {
+   "Class": 206,
+   "No": 7,
+   "Name": "S20607",
+   "Sex": "Male",
+   "Mandarin": 91.8,
+   "Math": 90,
+   "Average": 90.9,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 8,
+   "Name": "S20608",
+   "Sex": "Male",
+   "Mandarin": 95.8,
+   "Math": 97.6,
+   "Average": 96.7,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 9,
+   "Name": "S20609",
+   "Sex": "Male",
+   "Mandarin": 93.4,
+   "Math": 91,
+   "Average": 92.2,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 10,
+   "Name": "S20610",
+   "Sex": "Male",
+   "Mandarin": 94.2,
+   "Math": 87.4,
+   "Average": 90.8,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 11,
+   "Name": "S20611",
+   "Sex": "Male",
+   "Mandarin": 89.4,
+   "Math": 85.2,
+   "Average": 87.3,
+   "Mark": "b"
+ },
+ {
+   "Class": 206,
+   "No": 12,
+   "Name": "S20612",
+   "Sex": "Male",
+   "Mandarin": 89.8,
+   "Math": 88.6,
+   "Average": 89.2,
+   "Mark": "h"
+ },
+ {
+   "Class": 206,
+   "No": 13,
+   "Name": "S20613",
+   "Sex": "Male",
+   "Mandarin": 95.2,
+   "Math": 95.2,
+   "Average": 95.2,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 14,
+   "Name": "S20614",
+   "Sex": "Male",
+   "Mandarin": 90.6,
+   "Math": 88.8,
+   "Average": 89.7,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 15,
+   "Name": "S20615",
+   "Sex": "Female",
+   "Mandarin": 97.2,
+   "Math": 97.2,
+   "Average": 97.2,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 16,
+   "Name": "S20616",
+   "Sex": "Female",
+   "Mandarin": 95.6,
+   "Math": 86,
+   "Average": 90.8,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 17,
+   "Name": "S20617",
+   "Sex": "Female",
+   "Mandarin": 91.6,
+   "Math": 88,
+   "Average": 89.8,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 18,
+   "Name": "S20618",
+   "Sex": "Female",
+   "Mandarin": 85,
+   "Math": 77.4,
+   "Average": 81.2,
+   "Mark": "d"
+ },
+ {
+   "Class": 206,
+   "No": 19,
+   "Name": "S20619",
+   "Sex": "Female",
+   "Mandarin": 90.2,
+   "Math": 95.8,
+   "Average": 93,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 20,
+   "Name": "S20620",
+   "Sex": "Female",
+   "Mandarin": 95.4,
+   "Math": 86.4,
+   "Average": 90.9,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 21,
+   "Name": "S20621",
+   "Sex": "Female",
+   "Mandarin": 90.2,
+   "Math": 77.2,
+   "Average": 83.7,
+   "Mark": "h"
+ },
+ {
+   "Class": 206,
+   "No": 22,
+   "Name": "S20622",
+   "Sex": "Female",
+   "Mandarin": 99.2,
+   "Math": 98,
+   "Average": 98.6,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 23,
+   "Name": "S20623",
+   "Sex": "Female",
+   "Mandarin": 97,
+   "Math": 100,
+   "Average": 98.5,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 25,
+   "Name": "S20625",
+   "Sex": "Female",
+   "Mandarin": 98.6,
+   "Math": 93.8,
+   "Average": 96.2,
+   "Mark": ""
+ },
+ {
+   "Class": 206,
+   "No": 26,
+   "Name": "S20626",
+   "Sex": "Female",
+   "Mandarin": 72.6,
+   "Math": 70.6,
+   "Average": 71.6,
+   "Mark": "h"
+ },
+ {
+   "Class": 207,
+   "No": 1,
+   "Name": "S20701",
+   "Sex": "Male",
+   "Mandarin": 95.6,
+   "Math": 97,
+   "Average": 96.3,
+   "Mark": ""
+ },
+ {
+   "Class": 207,
+   "No": 2,
+   "Name": "S20702",
+   "Sex": "Male",
+   "Mandarin": 67.4,
+   "Math": 85.4,
+   "Average": 76.4,
+   "Mark": "h;e"
+ },
+ {
+   "Class": 207,
+   "No": 3,
+   "Name": "S20703",
+   "Sex": "Male",
+   "Mandarin": 83.6,
+   "Math": 72.2,
+   "Average": 77.9,
+   "Mark": "c"
+ },
+ {
+   "Class": 207,
+   "No": 4,
+   "Name": "S20704",
+   "Sex": "Male",
+   "Mandarin": 92.4,
+   "Math": 94,
+   "Average": 93.2,
+   "Mark": "btransfer out"
+ },
+ {
+   "Class": 207,
+   "No": 5,
+   "Name": "S20705",
+   "Sex": "Male",
+   "Mandarin": 91.6,
+   "Math": 93.8,
+   "Average": 92.7,
+   "Mark": "b"
+ },
+ {
+   "Class": 207,
+   "No": 6,
+   "Name": "S20706",
+   "Sex": "Male",
+   "Mandarin": 97.4,
+   "Math": 97.6,
+   "Average": 97.5,
+   "Mark": "b"
+ },
+ {
+   "Class": 207,
+   "No": 7,
+   "Name": "S20707",
+   "Sex": "Male",
+   "Mandarin": 91.4,
+   "Math": 90,
+   "Average": 90.7,
+   "Mark": "b;e"
+ },
+ {
+   "Class": 207,
+   "No": 8,
+   "Name": "S20708",
+   "Sex": "Male",
+   "Mandarin": 98.6,
+   "Math": 93.8,
+   "Average": 96.2,
+   "Mark": "transfer out"
+ },
+ {
+   "Class": 207,
+   "No": 9,
+   "Name": "S20709",
+   "Sex": "Male",
+   "Mandarin": 96.4,
+   "Math": 93.2,
+   "Average": 94.8,
+   "Mark": ""
+ },
+ {
+   "Class": 207,
+   "No": 10,
+   "Name": "S20710",
+   "Sex": "Male",
+   "Mandarin": 76.8,
+   "Math": 78,
+   "Average": 77.4,
+   "Mark": "h"
+ },
+ {
+   "Class": 207,
+   "No": 11,
+   "Name": "S20711",
+   "Sex": "Male",
+   "Mandarin": 85.4,
+   "Math": 84.8,
+   "Average": 85.1,
+   "Mark": "g;e"
+ },
+ {
+   "Class": 207,
+   "No": 12,
+   "Name": "S20712",
+   "Sex": "Male",
+   "Mandarin": 92.8,
+   "Math": 95.8,
+   "Average": 94.3,
+   "Mark": ""
+ },
+ {
+   "Class": 207,
+   "No": 13,
+   "Name": "S20713",
+   "Sex": "Male",
+   "Mandarin": 89.6,
+   "Math": 87.4,
+   "Average": 88.5,
+   "Mark": "b;e"
+ },
+ {
+   "Class": 207,
+   "No": 14,
+   "Name": "S20714",
+   "Sex": "Male",
+   "Mandarin": 90.8,
+   "Math": 90.4,
+   "Average": 90.6,
+   "Mark": ""
+ },
+ {
+   "Class": 207,
+   "No": 15,
+   "Name": "S20715",
+   "Sex": "Female",
+   "Mandarin": 94.2,
+   "Math": 96.2,
+   "Average": 95.2,
+   "Mark": ""
+ },
+ {
+   "Class": 207,
+   "No": 16,
+   "Name": "S20716",
+   "Sex": "Female",
+   "Mandarin": 94.8,
+   "Math": 93.6,
+   "Average": 94.2,
+   "Mark": ""
+ },
+ {
+   "Class": 207,
+   "No": 17,
+   "Name": "S20717",
+   "Sex": "Female",
+   "Mandarin": 98.2,
+   "Math": 96.4,
+   "Average": 97.3,
+   "Mark": ""
+ },
+ {
+   "Class": 207,
+   "No": 18,
+   "Name": "S20718",
+   "Sex": "Female",
+   "Mandarin": 92.2,
+   "Math": 85.6,
+   "Average": 88.9,
+   "Mark": ""
+ },
+ {
+   "Class": 207,
+   "No": 19,
+   "Name": "S20719",
+   "Sex": "Female",
+   "Mandarin": 96.4,
+   "Math": 94.8,
+   "Average": 95.6,
+   "Mark": ""
+ },
+ {
+   "Class": 207,
+   "No": 20,
+   "Name": "S20720",
+   "Sex": "Female",
+   "Mandarin": 98,
+   "Math": 96.4,
+   "Average": 97.2,
+   "Mark": ""
+ },
+ {
+   "Class": 207,
+   "No": 21,
+   "Name": "S20721",
+   "Sex": "Female",
+   "Mandarin": 96.6,
+   "Math": 93.2,
+   "Average": 94.9,
+   "Mark": ""
+ },
+ {
+   "Class": 207,
+   "No": 22,
+   "Name": "S20722",
+   "Sex": "Female",
+   "Mandarin": 96,
+   "Math": 96.4,
+   "Average": 96.2,
+   "Mark": ""
+ },
+ {
+   "Class": 207,
+   "No": 23,
+   "Name": "S20723",
+   "Sex": "Female",
+   "Mandarin": 82.4,
+   "Math": 78,
+   "Average": 80.2,
+   "Mark": "d"
+ },
+ {
+   "Class": 207,
+   "No": 24,
+   "Name": "S20724",
+   "Sex": "Female",
+   "Mandarin": 93.2,
+   "Math": 91.4,
+   "Average": 92.3,
+   "Mark": ""
+ },
+ {
+   "Class": 207,
+   "No": 25,
+   "Name": "S20725",
+   "Sex": "Female",
+   "Mandarin": 90.6,
+   "Math": 85.8,
+   "Average": 88.2,
+   "Mark": ""
+ },
+ {
+   "Class": 207,
+   "No": 26,
+   "Name": "S20726",
+   "Sex": "Female",
+   "Mandarin": 78.8,
+   "Math": 75.6,
+   "Average": 77.2,
+   "Mark": "d"
+ }
+]
