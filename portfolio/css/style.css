@@ -404,7 +404,7 @@ a, a:hover
     color: #000;
 }
 /****/
-@media (min-width: 451px) and (max-width: 992px){
+@media (min-width: 451px) and (max-width: 900px){
     .section-title{
         margin-bottom: 15px;
     }
